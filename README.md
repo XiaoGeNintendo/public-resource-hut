@@ -11,9 +11,11 @@ I own nothing in this list.
 Submit a Issue if you really have some problems about them.
 
 # Pokemon Cries
-All the Pokemon Cries in mp3. 
+All the Pokemon Cries in mp3 32000Hz. 
 
-The original ogg file is by [Veekun](https://veekun.com/).
+The original ogg 32728Hz files are by [Veekun](https://veekun.com/).
+
+Conversation is done using [FFMPeg](http://ffmpeg.org/)
 
 pokémon (C) 1995 pokémon, nintendo, game freak, creatures
 
