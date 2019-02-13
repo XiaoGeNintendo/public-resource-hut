@@ -19,3 +19,7 @@ Conversation is done using [FFMPeg](http://ffmpeg.org/)
 
 pokémon (C) 1995 pokémon, nintendo, game freak, creatures
 
+# Pokemon List In Raw Text
+All the Pokemon Names and ID in txt
+
+The file comes from [This Google Drive](https://docs.google.com/spreadsheets/d/18gKB3Y8yBzl0fha6H6Hs1-bZOax4HpjlFvWCGdXrfWQ/edit#gid=0) and [this Reddit](https://www.reddit.com/r/pokemon/comments/1qrnw8/i_made_a_few_plain_text_printer_friendly_pokemon/)
