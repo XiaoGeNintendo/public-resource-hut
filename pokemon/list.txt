@@ -26,10 +26,10 @@
  #026	Raichu
  #027	Sandshrew
  #028	Sandslash
- #029	Nidoran¡â
+ #029	NidoranÂ¡Ã¢
  #030	Nidorina
  #031	Nidoqueen
- #032	Nidoran¡á
+ #032	NidoranÂ¡Ã¡
  #033	Nidorino
  #034	Nidoking
  #035	Clefairy
@@ -666,7 +666,7 @@
  #666	Vivillon
  #667	Litleo
  #668	Pyroar
- #669	Flab¨¦b¨¦
+ #669	FlabÂ¨Â¦bÂ¨Â¦
  #670	Floette
  #671	Florges
  #672	Skiddo
@@ -716,4 +716,6 @@
  #716	Xerneas
  #717	Yveltal
  #718	Zygarde
-#719	Diancie
+ #719	Diancie
+ #720 Hoopa
+ #721 Volcanion
