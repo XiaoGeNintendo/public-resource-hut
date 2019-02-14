@@ -1,726 +1,726 @@
-#001	��������	�ե�������	Bulbasaur
-#002	���ܲ�	�ե�������	Ivysaur
-#003	���ܻ�	�ե����Х�	Venusaur
-#004	С����	�ҥȥ���	Charmander
-#005	�����	�ꥶ�`��	Charmeleon
-#006	�����	�ꥶ�`�ɥ�	Charizard
-#007	�����	���˥���	Squirtle
-#008	�����	����`��	Wartortle
-#009	ˮ����	����å���	Blastoise
-#010	��ë��	���㥿�ԩ`	Caterpie
-#011	����Ӽ	�ȥ�󥻥�	Metapod
-#012	�ʹ��	�Х��ե�`	Butterfree
-#013	���ǳ�	�ө`�ɥ�	Weedle
-#014	����Ӽ	�����`��	Kakuna
-#015	�����	���ԥ��`	Beedrill
-#016	����	�ݥå�	Pidgey
-#017	�ȱ���	�ԥ����	Pidgeotto
-#018	�����	�ԥ���å�	Pidgeot
-#019	С����	����å�	Rattata
-#020	����	��å�	Raticate
-#021	��ȸ	���˥�����	Spearow
-#022	����ȸ	���˥ɥ��	Fearow
-#023	������	���`��	Ekans
-#024	���ع�	���`�ܥå�	Arbok
-#025	Ƥ����	�ԥ����奦	Pikachu
-#026	����	�饤���奦	Raichu
-#027	��ɽ��	�����	Sandshrew
-#028	��ɽ��	����ɥѥ�	Sandslash
-#029	�����	�˥ɥ���	Nidoran��
-#030	�����	�˥ɥ�`��	Nidorina
-#031	����	�˥ɥ�����	Nidoqueen
-#032	�����	�˥ɥ���	Nidoran��
-#033	�����ŵ	�˥ɥ�`��	Nidorino
-#034	�����	�˥ɥ���	Nidoking
-#035	ƤƤ	�ԥå�	Clefairy
-#036	Ƥ����	�ԥ����`	Clefable
-#037	��β	������	Vulpix
-#038	��β	���奦����	Ninetales
-#039	�ֶ�	�ץ��	Jigglypuff
-#040	�ֿɶ�	�ץ����	Wigglytuff
-#041	������	���Хå�	Zubat
-#042	������	����Хå�	Golbat
-#043	��·��	�ʥ��Υ���	Oddish
-#044	������	�������ϥ�	Gloom
-#045	������	��ե쥷��	Vileplume
-#046	����˹	�ѥ饹	Paras
-#047	����˹��	�ѥ饻����	Parasect
-#048	ë��	����ѥ�	Venonat
-#049	Ħ³��	���ե���	Venomoth
-#050	����	�ǥ�����	Diglett
-#051	������	�����ȥꥪ	Dugtrio
-#052	����	�˥�`��	Meowth
-#053	è�ϴ�	�ڥ륷����	Persian
-#054	�ɴ�Ѽ	�����å�	Psyduck
-#055	���Ѽ	������å�	Golduck
-#056	���	�ޥ󥭩`	Mankey
-#057	�𱩺�	�����ꥶ��	Primeape
-#058	���ٹ�	���`�ǥ�	Growlithe
-#059	���ٹ�	������ǥ�	Arcanine
-#060	�������	�˥����	Poliwag
-#061	�����	�˥����	Poliwhirl
-#062	����Ӿʿ	�˥���ܥ�	Poliwrath
-#063	����	���`����	Abra
-#064	�»���	��󥲥�`	Kadabra
-#065	����	�թ`�ǥ���	Alakazam
-#066	����	���ꥭ�`	Machop
-#067	����	���`�ꥭ�`	Machoke
-#068	����	�����ꥭ�`	Machamp
-#069	����ѿ	�ޥ��ĥܥ�	Bellsprout
-#070	�ڴ���	���ĥɥ�	Weepinbell
-#071	��ʳ��	���ĥܥå�	Victreebel
-#072	���ˮĸ	��Υ��饲	Tentacool
-#073	����ˮĸ	�ɥ����饲	Tentacruel
-#074	Сȭʯ	�����ĥ֥�	Geodude
-#075	¡¡ʯ	�����`��	Graveler
-#076	¡¡��	�����`�˥�	Golem
-#077	С����	�ݥ˩`��	Ponyta
-#078	������	������å�	Rapidash
-#079	������	��ɥ�	Slowpoke
-#080	������	��ɥ��	Slowbro
-#081	С�Ź�	������	Magnemite
-#082	����һ�Ź�	�쥢������	Magneton
-#083	���Ѽ	����ͥ�	Farfetch'd
-#084	��	�ɩ`�ɩ`	Doduo
-#085	����	�ɩ`�ɥꥪ	Dodrio
-#086	С��ʨ	�ѥ��復	Seel
-#087	�׺�ʨ	���奴��	Dewgong
-#088	����	�٥ȥ٥��`	Grimer
-#089	������	�٥ȥ٥ȥ�	Muk
-#090	���౴	��������`	Shellder
-#091	�̼ױ�	�ѥ륷����	Cloyster
-#092	��˹	���`��	Gastly
-#093	��˹ͨ	���`����	Haunter
-#094	����	���󥬩`	Gengar
-#095	������	����`��	Onix
-#096	������	����`��	Drowzee
-#097	��������	����`�ѩ`	Hypno
-#098	��ǯз	�����	Krabby
-#099	��ǯз	���󥰥�`	Kingler
-#100	��������	�ӥ�����	Voltorb
-#101	��Ƥ�׵�	�ޥ�ޥ���	Electrode
-#102	����	���ޥ���	Exeggcute
-#103	Ҭ����	�ʥå��`	Exeggutor
-#104	��������	���饫��	Cubone
-#105	��������	���饬��	Marowak
-#106	������	������`	Hitmonlee
-#107	��ȭ��	���ӥ��`	Hitmonchan
-#108	����ͷ	�٥����	Lickitung
-#109	��˹��	�ɥ��`��	Koffing
-#110	˫����˹	�ޥ��ɥ���	Weezing
-#111	����Ϭţ	�����۩`��	Rhyhorn
-#112	���Ϭ��	�����ɥ�	Rhydon
-#113	������	��å��`	Chansey
-#114	���ٹ�	��󥸥��	Tangela
-#115	����	����`��	Kangaskhan
-#116	ī����	���åĩ`	Horsea
-#117	������	���`�ɥ�	Seadra
-#118	�ǽ���	�ȥ������	Goldeen
-#119	������	�����ޥ���	Seaking
-#120	������	�ҥȥǥޥ�	Staryu
-#121	��ʯ����	�����`�ߩ`	Starmie
-#122	ħǽ��ż	�Х��`��	Mr. Mime
-#123	�������	���ȥ饤��	Scyther
-#124	�Դ���	��`�����	Jynx
-#125	�����	����֩`	Electabuzz
-#126	Ѽ�����	�֩`�Щ`	Magmar
-#127	����˹	��������	Pinsir
-#128	��̩��	���󥿥���	Tauros
-#129	������	��������	Magikarp
-#130	������	�����ɥ�	Gyarados
-#131	������˹	��ץ饹	Lapras
-#132	�ٱ��	�᥿���	Ditto
-#133	����	���`�֥�	Eevee
-#134	ˮ����	�����`��	Vaporeon
-#135	������	������`��	Jolteon
-#136	������	�֩`�����`	Flareon
-#137	�����	�ݥꥴ��	Porygon
-#138	��ʯ��	����ʥ���	Omanyte
-#139	��̾�ʯ��	���ॹ���`	Omastar
-#140	��ʯ��	���֥�	Kabuto
-#141	������	���֥ȥץ�	Kabutops
-#142	��ʯ����	�ץƥ�	Aerodactyl
-#143	������	���ӥ���	Snorlax
-#144	������	�ե�`���`	Articuno
-#145	������	������`	Zapdos
-#146	������	�ե�����`	Moltres
-#147	������	�ߥ˥�奦	Dratini
-#148	������	�ϥ����`	Dragonair
-#149	����	�������`	Dragonite
-#150	����	�ߥ奦�ĩ`	Mewtwo
-#151	�λ�	�ߥ奦	Mew
-�ڶ�����
-#152	�ղ�Ҷ	������`��	Chikorita
-#153	�¹�Ҷ	�٥���`��	Bayleef
-#154	���ÿ�	�ᥬ�˥���	Meganium
-#155	������	�ҥΥ��饷	Cyndaquil
-#156	������	�ޥ��ޥ饷	Quilava
-#157	����	�Х��թ`��	Typhlosion
-#158	С����	��˥Υ�	Totodile
-#159	����	���ꥲ����	Croconaw
-#160	������	���`������	Feraligatr
-#161	β��	������	Sentret
-#162	��β��	��������	Furret
-#163	����	�۩`�۩`	Hoothoot
-#164	èͷҹӥ	���Υ���	Noctowl
-#165	��ư��	��ǥ���	Ledyba
-#166	��ư��	��ǥ�����	Ledian
-#167	Բ˿��	���ȥޥ�	Spinarak
-#168	������˹	���ꥢ�ɥ�	Ariados
-#169	������	�����Хå�	Crobat
-#170	������	�������`	Chinchou
-#171	��ƹ�	��󥿩`��	Lanturn
-#172	Ƥ��	�ԥ���`	Pichu
-#173	Ƥ����	�ԥ�	Cleffa
-#174	������	�ץץ��	Igglybuff
-#175	���˱�	�ȥ��ԩ`	Togepi
-#176	���˻���	�ȥ����å�	Togetic
-#177	��Ȼȸ	�ͥ��ƥ�	Natu
-#178	��Ȼ��	�ͥ��ƥ���	Xatu
-#179	������	���`��	Mareep
-#180	������	�⥳��	Flaaffy
-#181	����	�ǥ��奦	Ampharos
-#182	������	���쥤�ϥ�	Bellossom
-#183	����¶	�ޥ��	Marill
-#184	����¶��	�ޥ���	Azumarill
-#185	���Ź�	�����å��`	Sudowoodo
-#186	�����ܻ�	�˥���ȥ�	Politoed
-#187	��Ӳ�	�ϥͥå�	Hoppip
-#188	��ӻ�	�ݥݥå�	Skiploom
-#189	�����	�勵�å�	Jumpluff
-#190	��β����	�����ѥ�	Aipom
-#191	��������	�ҥޥʥå�	Sunkern
-#192	���ջ���	���ޥ��	Sunflora
-#193	������	������	Yanma
-#194	�ڲ�	���ѩ`	Wooper
-#195	����	�̥��`	Quagsire
-#196	̫������	���`�ե�	Espeon
-#197	��������	�֥�å��`	Umbreon
-#198	�ڰ�ѻ	��ߥ��饹	Murkrow
-#199	������	��ɥ���	Slowking
-#200	����	�०��	Misdreavus
-#201	δ֪ͼ��	����Ω`��	Unown
-#202	��Ȼ��	���`�ʥ�	Wobbuffet
-#203	������	�����ꥭ	Girafarig
-#204	黹���	���̥�����	Pineco
-#205	������˹	�ե���ȥ�	Forretress
-#206	�����ܵ�	�Υ��å�	Dunsparce
-#207	��Ы	���饤���`	Gligar
-#208	�����	�ϥ��ͩ`��	Steelix
-#209	��³	�֥�`	Snubbull
-#210	��³��	�����֥�	Granbull
-#211	ǧ����	�ϥ�`����	Qwilfish
-#212	��ǯ���	�ϥå���	Scizor
-#213	����	�ĥܥĥ�	Shuckle
-#214	��������˹	�إ饯����	Heracross
-#215	����	�˥�`��	Sneasel
-#216	�ܱ���	�ҥᥰ��	Teddiursa
-#217	ȦȦ��	��󥰥�	Ursaring
-#218	���ҳ�	�ޥ��ޥå�	Slugma
-#219	������ţ	�ޥ����르	Magcargo
-#220	Сɽ��	�����`	Swinub
-#221	��ë��	���Υ�`	Piloswine
-#222	̫��ɺ��	���˩`��	Corsola
-#223	������	�ƥåݥ���	Remoraid
-#224	����Ͱ	��������	Octillery
-#225	��ʹ��	�ǥ�Щ`��	Delibird
-#226	�޳����	�ޥ󥿥���	Mantine
-#227	������	�����`���	Skarmory
-#228	��³��	�ǥ�ӥ�	Houndour
-#229	��³��	�إ륬�`	Houndoom
-#230	������	���󥰥ɥ�	Kingdra
-#231	СС��	���ޥ���	Phanpy
-#232	�ټ�	�ɥ�ե���	Donphan
-#233	����ޢ�	�ݥꥴ��	Porygon2
-#234	����¹	���ɥ���	Stantler
-#235	ͼͼȮ	�ɩ`�֥�	Smeargle
-#236	��ηС��	�Х륭�`	Tyrogue
-#237	ս����	���ݥ���`	Hitmontop
-#238	�Դ���	�����`��	Smoochum
-#239	�����	���쥭�å�	Elekid
-#240	Ѽ�챦��	�֥ӥ�	Magby
-#241	���̹�	�ߥ륿��	Miltank
-#242	�Ҹ���	�ϥԥʥ�	Blissey
-#243	�׹�	�饤����	Raikou
-#244	�׵�	����ƥ�	Entei
-#245	ˮ��	��������	Suicune
-#246	�׻���˹	��`���饹	Larvitar
-#247	ɳ����˹	���ʥ��饹	Pupitar
-#248	�����˹	�Х󥮥饹	Tyranitar
-#249	������	�륮��	Lugia
-#250	����	�ۥ�����	Ho-Oh
-#251	ʱ����	����ӥ�	Celebi
-��������
-#252	ľ�ع�	�����	Treecko
-#253	ɭ������	����ץȥ�	Grovyle
-#254	������	���奫����	Sceptile
-#255	���ɼ�	�������	Torchic
-#256	��׳��	�參�����	Combusken
-#257	���漦	�Х���`��	Blaziken
-#258	ˮԾ��	�ߥ�������	Mudkip
-#259	��Ծ��	�̥ޥ����`	Marshtomp
-#260	���ӹ�	�饰��`��	Swampert
-#261	����Ȯ	�ݥ�����	Poochyena
-#262	����Ȯ	���饨��	Mightyena
-#263	������	����������	Zigzagoon
-#264	ֱ����	�ޥå�����	Linoone
-#265	��β��	����å�	Wurmple
-#266	�׿Ǽ�	���饵�ꥹ	Silcoon
-#267	���Է��	�����ϥ��	Beautifly
-#268	�ܼ׼�	�ޥ���	Cascoon
-#269	���۶�	�ɥ�������	Dustox
-#270	��Ҷͯ��	�ϥ��ܩ`	Lotad
-#271	��ñСͯ	�ϥ��֥��	Lombre
-#272	�����ͯ	���ѥå�	Ludicolo
-#273	��ʵ��	���ͥܩ`	Seedot
-#274	����Ҷ	���Υϥ�	Nuzleaf
-#275	�ƻ��칷	���`�ƥ�	Shiftry
-#276	������	���Х�	Taillow
-#277	������	�������Х�	Swellow
-#278	����Ÿ	������	Wingull
-#279	����Ÿ	�ڥ�åѩ`	Pelipper
-#280	��³��˿	���ȥ�	Ralts
-#281	��³��	����ꥢ	Kirlia
-#282	ɳ�ζ�	���`�ʥ���	Gardevoir
-#283	��������	���᥿��	Surskit
-#284	����	�����`��	Masquerain
-#285	ĢĢ��	���Υ���	Shroomish
-#286	���ҹ�	���Υ��å�	Breloom
-#287	����̡	�ʥޥ���	Slakoth
-#288	����Գ	��륭���	Vigoroth
-#289	�����	���å���	Slaking
-#290	������ʿ	�ĥ��˥�	Nincada
-#291	��������	�ƥå��˥�	Ninjask
-#292	�ѿ�����	�̥��˥�	Shedinja
-#293	����	���˥�˥�	Whismur
-#294	�𱬵�	�ɥ��`��	Loudred
-#295	������	�Х�����	Exploud
-#296	Ļ����ʿ	�ޥ��Υ���	Makuhita
-#297	������ʿ	�ϥ�ƥ��	Hariyama
-#298	¶����	����	Azurill
-#299	������	�Υ��ѥ�	Nosepass
-#300	��β��	���ͥ�	Skitty
-#301	����è	���ͥ�����	Delcatty
-#302	������	��ߥ��	Sableye
-#303	������	�����`��	Mawile
-#304	�ɿɶ���	�����ɥ�	Aron
-#305	�ɶ���	���ɥ�	Lairon
-#306	��ʿ�ɶ���	�ܥ����ɥ�	Aggron
-#307	��ɳ��	�����ʥ�	Meditite
-#308	ǡ��ķ	����`���	Medicham
-#309	������	�饯�饤	Electrike
-#310	�׵���	�饤�ܥ��	Manectric
-#311	��������	�ץ饹��	Plusle
-#312	��������	�ޥ��ʥ�	Minun
-#313	��ө��	�Х�ө`��	Volbeat
-#314	����ө	����ߩ`��	Illumise
-#315	��Ǿޱ	�����ꥢ	Roselia
-#316	��ʳ��	�������	Gulpin
-#317	��ʳ��	�ޥ�Ω`��	Swalot
-#318	������	���Х˥�	Carvanha
-#319	������	����ϥ��`	Sharpedo
-#320	���	�ۥ��륳	Wailmer
-#321	����	�ۥ��륪�`	Wailord
-#322	������	�ɥ���	Numel
-#323	�����	�Х��`��	Camerupt
-#324	ú̿��	���`����	Torkoal
-#325	������	�Хͥ֩`	Spoink
-#326	������	�֩`�ԥå�	Grumpig
-#327	�λΰ�	�ѥå��`��	Spinda
-#328	�����	�ʥå���`	Trapinch
-#329	�������׳�	�ӥ֥�`��	Vibrava
-#330	ɳĮ����	�ե饤����	Flygon
-#331	����������	���ܥͥ�	Cacnea
-#332	�θ�������	�Υ�����	Cacturne
-#333	������	����å�	Swablu
-#334	��Ϧ����	���륿�ꥹ	Altaria
-#335	è��ն	���󥰩`��	Zangoose
-#336	������	�ϥ֥ͩ`��	Seviper
-#337	��ʯ	��ʥȩ`��	Lunatone
-#338	̫����	������å�	Solrock
-#339	������	�ɥ���å�	Barboach
-#340	������	�ʥޥ���	Whiscash
-#341	��ϺС��	�إ�����	Corphish
-#342	������Ϻ	�����ꥬ�`	Crawdaunt
-#343	���ż	�䥸����	Baltoy
-#344	������ż	�ͥ�ɩ`��	Claydol
-#345	���ְٺ�	���`��	Lileep
-#346	ҡ���ٺ�	��쥤�ɥ�	Cradily
-#347	̫�����	���Υץ�	Anorith
-#348	̫�ſ���	���`�ޥ��	Armaldo
-#349	�����	�ҥ�Х�	Feebas
-#350	����˹	�ߥ�������	Milotic
-#351	Ʈ������	�ݥ���	Castform
-#352	������	�����쥪��	Kecleon
-#353	ԹӰ����	�����ܥ���	Shuppet
-#354	��������	����ڥå�	Banette
-#355	ҹѲ��	��ޥ��	Duskull
-#356	����ҹ��	���ޥ�`��	Dusclops
-#357	�ȴ���	�ȥ��ԥ���	Tropius
-#358	������	����`��	Chimecho
-#359	������³	���֥���	Absol
-#360	С��Ȼ	���`�ʥ�	Wynaut
-#361	ѩͯ��	�業��饷	Snorunt
-#362	������	���˥��`��	Glalie
-#363	������	���ޥ��饷	Spheal
-#364	��ħʨ	�ȥɥ���`	Sealeo
-#365	������ʨ	�ȥɥ��륬	Walrein
-#366	���鱴	�ѩ`���	Clamperl
-#367	�԰���	�ϥ�Ʃ`��	Huntail
-#368	ӣ����	������ӥ�	Gorebyss
-#369	�ſռ���	���`���	Relicanth
-#370	������	��֥���	Luvdisc
-#371	������	���ĥ٥�	Bagon
-#372	�׿���	�����`	Shelgon
-#373	������	�ܩ`�ޥ��	Salamence
-#374	������	����Х�	Beldum
-#375	������	�᥿��	Metang
-#376	�޽��	�᥿������	Metagross
-#377	�׼����	�쥸���å�	Regirock
-#378	�׼���˹	�쥸������	Regice
-#379	�׼�˹��³	�쥸������	Registeel
-#380	������˹	��ƥ�����	Latias
-#381	����ŷ˹	��ƥ�����	Latios
-#382	��ŷ��	�������`��	Kyogre
-#383	������	����`�ɥ�	Groudon
-#384	�ҿ���	��å�����	Rayquaza
-#385	������	����`��	Jirachi
-#386	��ŷ��ϣ˹	�ǥ�������	Deoxys
-��������
-#387	�����	�ʥ��ȥ�	Turtwig
-#388	���ֹ�	�ϥ䥷����	Grotle
-#389	��̨��	�ɥ����ȥ�	Torterra
-#390	С�����	�ҥ�����	Chimchar
-#391	�ͻ��	�⥦������	Monferno
-#392	�����	����������	Infernape
-#393	������	�ݥå����	Piplup
-#394	������	�ݥå�����	Prinplup
-#395	�����ò�	����ڥ��	Empoleon
-#396	ķ�˶�	��å���	Starly
-#397	ķ����	�९�Щ`��	Staravia
-#398	ķ��ӥ	�९�۩`��	Staraptor
-#399	������	�ӥå�	Bidoof
-#400	��β��	�ө`����	Bibarel
-#401	Բ��ʦ	�����ܩ`��	Kricketot
-#402	�����	�����ȥå�	Kricketune
-#403	Сè��	�����	Shinx
-#404	�տ�è	�륯����	Luxio
-#405	����è	���ȥ�`	Luxray
-#406	���߰�	���ܥߩ`	Budew
-#407	��˿�׶�	�����쥤��	Roserade
-#408	ͷ����	�������ɥ�	Cranidos
-#409	ս���	���ѥ��	Rampardos
-#410	�ܼ���	���ƥȥץ�	Shieldon
-#411	������	�ȥ�ǥץ�	Bastiodon
-#412	��ݶ�	�ߥΥ�å�	Burmy
-#413	��ݹ�	�ߥΥޥ���	Wormadam
-#414	��ʿ��	���`�ᥤ��	Mothim
-#415	���۷�	�ߥĥϥ˩`	Combee
-#416	��Ů��	�ө`������	Vespiquen
-#417	��������	�ѥ��ꥹ	Pachirisu
-#418	ӾȦ��	�֥�����	Buizel
-#419	��Ǳ��	�ե��`����	Floatzel
-#420	ӣ����	��������	Cherubi
-#421	ӣ����	�������	Cherrim
-#422	�޿Ǻ���	����ʥ���	Shellos
-#423	������	�ȥ�ȥɥ�	Gastrodon
-#424	˫β����	���ƥܩ`��	Ambipom
-#425	ƮƮ��	�ե���	Drifloon
-#426	�����	�ե�饤��	Drifblim
-#427	������	�ߥߥ���	Buneary
-#428	������	�ߥߥ��å�	Lopunny
-#429	����ħ	�०�ީ`��	Mismagius
-#430	��ѻͷͷ	�ɥ󥫥饹	Honchkrow
-#431	������	�˥��ީ`	Glameow
-#432	��ʩ��	�֥˥�å�	Purugly
-#433	������	��`�����	Chingling
-#434	������	������ש`	Stunky
-#435	̹�˳���	��������	Skuntank
-#436	ͭ����	�ɩ`�ߥ�`	Bronzor
-#437	��ͭ��	�ɩ`������	Bronzong
-#438	��Ź�	�����ϥ�	Bonsly
-#439	ħ����	�ޥͥ�	Mime Jr.
-#440	С����	�ԥ�ץ�	Happiny
-#441	������	�ڥ�å�	Chatot
-#442	���ҹ�	�ߥ��륲	Spiritomb
-#443	Բ½��	�ե��ޥ�	Gible
-#444	����½��	���Х���	Gabite
-#445	��ҧ½��	���֥ꥢ��	Garchomp
-#446	С������	�����	Munchlax
-#447	��ŷ·	�ꥪ��	Riolu
-#448	·����ŷ	�륫�ꥪ	Lucario
-#449	ɳ����	�ҥݥݥ���	Hippopotas
-#450	������	���Х�ɥ�	Hippowdon
-#451	ǯβЫ	�������	Skorupi
-#452	����Ы	�ɥ�ԥ���	Drapion
-#453	������	����å���	Croagunk
-#454	������	�ɥ����å�	Toxicroak
-#455	������	�ޥ����å�	Carnivine
-#456	ӫ����	����������	Finneon
-#457	�޺���	�ͥ�����	Lumineon
-#458	С�����	���ޥ�	Mantyke
-#459	ѩ�ҹ�	�業���֥�	Snover
-#460	��ѩ��	�業�Υ��`	Abomasnow
-#461	������	�ޥ˥�`��	Weavile
-#462	�Ա��Ź�	���Х�����	Magnezone
-#463	������	�٥��٥��	Lickilicky
-#464	���׿�Ϭ	�ɥ����ɥ�	Rhyperior
-#465	������	�⥸����	Tangrowth
-#466	���ħ��	���쥭�֥�	Electivire
-#467	Ѽ������	�֩`�Щ`��	Magmortar
-#468	���˻�˹	�ȥ����å�	Togekiss
-#469	Զ�ž���	�ᥬ����	Yanmega
-#470	Ҷ����	��`�ե���	Leafeon
-#471	������	���쥤����	Glaceon
-#472	��Ы��	���饤����	Gliscor
-#473	������	�ޥ��`	Mamoswine
-#474	����ޣ�	�ݥꥴ���	Porygon-Z
-#475	��·�׶�	����쥤��	Gallade
-#476	�󳯱���	�����Ω`��	Probopass
-#477	��ҹħ��	��Υ�`��	Dusknoir
-#478	ѩ��Ů	�業��Υ�	Froslass
-#479	����ķ	���ȥ�	Rotom
-#480	�ɿ�ϣ	�楯���`	Uxie
-#481	��ķ����	�����å�	Mesprit
-#482	�ǿ�ŵķ	�����Υ�	Azelf
-#483	����¬��	�ǥ����륬	Dialga
-#484	��·����	�ѥ륭��	Palkia
-#485	ϯ������	�ҩ`�ɥ��	Heatran
-#486	�׼��濨˹	�쥸������	Regigigas
-#487	��������	����ƥ���	Giratina
-#488	����ɫ����	���쥻�ꥢ	Cresselia
-#489	��ŷ��	�ե�����	Phione
-#490	������	�ޥʥե�	Manaphy
-#491	�������	���`���饤	Darkrai
-#492	л��	��������	Shaymin
-#493	������˹	���륻����	Arceus
-��������
-#494	�ȿ�����	�ӥ��ƥ���	Victini
-#495	������	�ĥ��`����	Snivy
-#496	������	����Υө`	Servine
-#497	������	������`��	Serperior
-#498	ůů��	�ݥ���	Tepig
-#499	������	���㥪�֩`	Pignite
-#500	������	����֥��`	Emboar
-#501	ˮˮ̡	�ߥ���ޥ�	Oshawott
-#502	˫����	�ե����ޥ�	Dewott
-#503	�󽣹�	��������	Samurott
-#504	̽̽��	�ߥͥ���	Patrat
-#505	������	�ߥ�ۥå�	Watchog
-#506	СԼ��	��`�ƥ�`	Lillipup
-#507	��Լ��	�ϩ`�ǥꥢ	Herdier
-#508	��ë��	��`����	Stoutland
-#509	����è	������ͥ�	Purrloin
-#510	�ᱪ	��ѥ����	Liepard
-#511	��Ҭ��	��ʥå�	Pansage
-#512	��ҬԳ	��ʥå��`	Simisage
-#513	�����	�Х��å�	Pansear
-#514	����Գ	�Х��å��`	Simisear
-#515	��ˮ��	�ҥ�å�	Panpour
-#516	��ˮԳ	�ҥ�å��`	Simipour
-#517	ʳ����	����	Munna
-#518	����ʴ	�ॷ��`��	Musharna
-#519	������	�ޥ�ѥ�	Pidove
-#520	������	�ϥȩ`�ܩ`	Tranquill
-#521	�߰�����	����ۥ���	Unfezant
-#522	�߰���	���ޥ�	Blitzle
-#523	�׵����	���֥饤��	Zebstrika
-#524	ʯ����	���󥴥�	Roggenrola
-#525	�����	����ȥ�	Boldore
-#526	���ҹ�	����������	Gigalith
-#527	��������	�������	Woobat
-#528	������	���������	Swoobat
-#529	�ݶ�����	�⥰���`	Drilbur
-#530	��ͷ����	�ɥ�奦��	Excadrill
-#531	�������	���֥��	Audino
-#532	����С��	�ɥå���`	Timburr
-#533	��������	�ɥƥå���	Gurdurr
-#534	�޽��Ͻ�	���`�֥���	Conkeldurr
-#535	Բ���	�����ޥ�	Tympole
-#536	�����	���ޥ���	Palpitoad
-#537	�����	���ޥ�����	Seismitoad
-#538	Ͷˤ��	�ʥ���	Throh
-#539	�����	������	Sawk
-#540	�汦��	����ߥ�	Sewaddle
-#541	������	����ޥ�	Swadloon
-#542	��ķ��	�ϥϥ����	Leavanny
-#543	�������	�ե���	Venipede
-#544	������	�ۥ��`��	Whirlipede
-#545	�����	�ڥ�ɥ�`	Scolipede
-#546	ľ����	�����	Cottonee
-#547	������	����թ`��	Whimsicott
-#548	�ٺϸ�����	������	Petilil
-#549	ȹ��С��	�ɥ�ǥ���	Lilligant
-#550	Ұ������	�Х��饪	Basculin
-#551	������	�ᥰ����	Sandile
-#552	�����	���ӥ�	Krokorok
-#553	��å��	���ӥ���	Krookodile
-#554	��첻����	����ޥå�	Darumaka
-#555	��Ħ����	�ҥҥ����	Darmanitan
-#556	ɳ��������	�ޥ饫�å�	Maractus
-#557	ʯ��з	�������ޥ�	Dwebble
-#558	�ҵ��з	����ѥ쥹	Crustle
-#559	����С��	����å�	Scraggy
-#560	ͷ�����	���륺����	Scrafty
-#561	������	����ܥ�`	Sigilyph
-#562	�޿����	�ǥ��ޥ�	Yamask
-#563	�����	�ǥ����`��	Cofagrigus
-#564	ԭ�Ǻ���	�ץ��ȩ`��	Tirtouga
-#565	�߹Ǻ���	���Х��`��	Carracosta
-#566	ʼ��С��	���`����	Archen
-#567	ʼ�����	���`������	Archeops
-#568	���ƴ�	��֥�����	Trubbish
-#569	�ҳ�ɽ	�����ȥ���	Garbodor
-#570	������	������	Zorua
-#571	�����ǿ�	�������`��	Zoroark
-#572	��ĭ����	����`�ߥ�	Minccino
-#573	��ŵ����	������`��	Cinccino
-#574	��±���	������	Gothita
-#575	���Сͯ	�����ߥ�	Gothorita
-#576	���С��	�����를��	Gothitelle
-#577	����ϸ����	��˥��	Solosis
-#578	˫��ϸ����	���֥��	Duosion
-#579	����ϸ����	��󥯥륹	Reuniclus
-#580	Ѽ����	������ҩ`	Ducklett
-#581	�����	������	Swanna
-#582	�����	�Х˥ץå�	Vanillite
-#583	����	�Х˥�å�	Vanillish
-#584	˫������	�Х��Х˥�	Vanilluxe
-#585	�ļ�¹	��������	Deerling
-#586	��ѿ¹	��֥�����	Sawsbuck
-#587	�����	�����	Emolga
-#588	�Ǹǳ�	���֥��	Karrablast
-#589	��ʿ��ţ	����Х르	Escavalier
-#590	��ѽ��	���ޥ�����	Foongus
-#591	��¶��	����Х��	Amoonguss
-#592	��ƮƮ	�ץ���	Frillish
-#593	����	�֥�󥲥�	Jellicent
-#594	��ķ����	�ޥޥ�ܥ�	Alomomola
-#595	����	�Х����	Joltik
-#596	��֩��	�ǥ�����	Galvantula
-#597	��������	�ƥå��`��	Ferroseed
-#598	�������	�ʥåȥ쥤	Ferrothorn
-#599	���ֶ�	������	Klink
-#600	������	��������	Klang
-#601	���ֹ�	����������	Klinklang
-#602	����С��	���ӥ��饹	Tynamo
-#603	������	���ӥө`��	Eelektrik
-#604	����������	���ӥ�ɥ�	Eelektross
-#605	С�ҹ�	�ꥰ��`	Elgyem
-#606	�����	���`�٥�	Beheeyem
-#607	�����	�ҥȥ⥷	Litwick
-#608	�ƻ�����	���ץ�`	Lampent
-#609	ˮ���ƻ���	�����ǥ�	Chandelure
-#610	����	���Х�	Axew
-#611	������	���Υ��	Fraxure
-#612	˫��ս��	���ΥΥ���	Haxorus
-#613	������	���ޥ����	Cubchoo
-#614	��ԭ��	�ĥ�٥��`	Beartic
-#615	����ѩ��	�ե�`����	Cryogonal
-#616	С����	����ܥޥ�	Shelmet
-#617	���ݳ�	��������`	Accelgor
-#618	�����	�ޥå���	Stunfisk
-#619	������	������թ`	Mienfoo
-#620	ʦ����	��������	Mienshao
-#621	������	����६��	Druddigon
-#622	��żС��	���ӥå�	Golett
-#623	��ż����	����`��	Golurk
-#624	�Ե�С��	���ޥ���	Pawniard
-#625	��ն˾��	���ꥭ����	Bisharp
-#626	��ըͷˮţ	�Хåե���	Bouffalant
-#627	ëͷСӥ	�亮�ܥ�	Rufflet
-#628	��ʿ��ӥ	�����`����	Braviary
-#629	ͺӥѾͷ	�Х���㥤	Vullaby
-#630	ͺӥ��	�Х른�`��	Mandibuzz
-#631	������	���������	Heatmor
-#632	����	���������	Durant
-#633	������	��Υ�	Deino
-#634	˫�ױ���	���إå�	Zweilous
-#635	���׶���	������ɥ�	Hydreigon
-#636	ȼ�ճ�	�����	Larvesta
-#637	�����	���륬�⥹	Volcarona
-#638	����·��	���Х륪��	Cobalion
-#639	��������	�ƥ饭����	Terrakion
-#640	��������	�ӥꥸ����	Virizion
-#641	������	�ȥ�ͥ���	Tornadus
-#642	�׵���	�ܥ�ȥ���	Thundurus
-#643	��ϣ��ķ	�쥷���	Reshiram
-#644	�ݿ���ķ	��������	Zekrom
-#645	������	���ɥ���	Landorus
-#646	����ķ	������	Kyurem
-#647	��·��ŷ	����ǥ���	Keldeo
-#648	����Ү��	������å�	Meloetta
-#649	��ŵ������	���Υ�����	Genesect
-��������
-#650	������	�ϥ�ޥ���	Chespin
-#651	���ֹ���	�ϥ�ܩ`��	Quilladin
-#652	���￨¡	�֥ꥬ����	Chesnaught
-#653	�����	�ե��å�	Fennekin
-#654	��β���	�Ʃ`��ʩ`	Braixen
-#655	������	�ޥե������`	Delphox
-#656	��������	�����ޥ�	Froakie
-#657	��ͷ��	����������	Frogadier
-#658	�׺�����	���å�����	Greninja
-#659	�����	�ۥ�ө`	Bunnelby
-#660	�����	�ۥ�`��	Diggersby
-#661	С��ȸ	��䥳��	Fletchling
-#662	���ȸ	�ҥΥ䥳��	Fletchinder
-#663	�Ҽ�ӥ	�ե��������`	Talonflame
-#664	�۵���	���ե��ॷ	Scatterbug
-#665	�۵�Ӽ	���թ`�饤	Spewpa
-#666	�ʷ۵�	�ӥӥ��	Vivillon
-#667	Сʨʨ	������	Litleo
-#668	����ʨ	�����󥸥�	Pyroar
-#669	������	�ե�٥�	Flab��b��
-#670	��Ҷ��	�ե饨�å�	Floette
-#671	�������	�ե�`������	Florges
-#672	����С��	�ᥧ�`����	Skiddo
-#673	����ɽ��	���`���`��	Gogoat
-#674	��Ƥ��è	�������	Pancham
-#675	��å��è	�������	Pangoro
-#676	��������	�ȥ�ߥ���	Furfrou
-#677	����	�˥㥹�ѩ`	Espurr
-#678	��������	�˥㥪�˥���	Meowstic
-#679	������	�ҥȥĥ�	Honedge
-#680	˫����	�˥��󥮥�	Doublade
-#681	��ܽ���	���륬���	Aegislash
-#682	������	���奷���	Spritzee
-#683	���㾫	�ե�ե��	Aromatisse
-#684	������ܽ	�ڥ��åѥ�	Swirlix
-#685	������	�ڥ���`��	Slurpuff
-#686	������	�ީ`���`��	Inkay
-#687	������	����ޥͥ�	Malamar
-#688	��Ž�	����ƥ�	Binacle
-#689	�������	����Υǥ�	Barbaracle
-#690	������	������`	Skrelp
-#691	������	�ɥ�ߥɥ�	Dragalge
-#692	����ǹϺ	���ǥåݥ�	Clauncher
-#693	���ڱ�Ϻ	�֥������`	Clawitzer
-#694	ɡ����	���ꥭ�ƥ�	Helioptile
-#695	���ɡ��	���쥶�`��	Heliolisk
-#696	��������	�����饹	Tyrunt
-#697	�����	�������饹	Tyrantrum
-#698	��ѩ��	���ޥ륹	Amaura
-#699	��ѩ����	���ޥ�륬	Aurorus
-#700	��������	�˥�ե���	Sylveon
-#701	ˤ��ӥ��	�����֥�	Hawlucha
-#702	������	�ǥǥ��	Dedenne
-#703	С����	��쥷�`	Carbink
-#704	�𤱦	�̥��	Goomy
-#705	�����	�̥ᥤ��	Sliggoo
-#706	�����	�̥�르��	Goodra
-#707	ԿȦ��	����åե�	Klefki
-#708	Сľ��	�ܥ���`	Phantump
-#709	��ľ��	���`���å�	Trevenant
-#710	�ϹϾ�	�Х��å���	Pumpkaboo
-#711	�ϹϹ���	�ѥ�ץ���	Gourgeist
-#712	����	�������`��	Bergmite
-#713	���ҹ�	����٩`��	Avalugg
-#714	����	����Хå�	Noibat
-#715	������	����Щ`��	Noivern
-#716	�ܶ�����˹	����ͥ���	Xerneas
-#717	���������	���٥륿��	Yveltal
-#718	�������	�������	Zygarde
-#719	�ٰ�ϣ	�ǥ����󥷩`	Diancie
-#720	����	�թ`��	Hoopa
-#721	���������	�ܥ륱�˥���	Volcanion
+﻿#001	妙蛙种子	フシギダネ	Bulbasaur
+#002	妙蛙草	フシギソウ	Ivysaur
+#003	妙蛙花	フシギバナ	Venusaur
+#004	小火龙	ヒトカゲ	Charmander
+#005	火恐龙	リザード	Charmeleon
+#006	喷火龙	リザードン	Charizard
+#007	杰尼龟	ゼニガメ	Squirtle
+#008	卡咪龟	カメール	Wartortle
+#009	水箭龟	カメックス	Blastoise
+#010	绿毛虫	キャタピー	Caterpie
+#011	铁甲蛹	トランセル	Metapod
+#012	巴大蝶	バタフリー	Butterfree
+#013	独角虫	ビードル	Weedle
+#014	铁壳蛹	コクーン	Kakuna
+#015	大针蜂	スピアー	Beedrill
+#016	波波	ポッポ	Pidgey
+#017	比比鸟	ピジョン	Pidgeotto
+#018	大比鸟	ピジョット	Pidgeot
+#019	小拉达	コラッタ	Rattata
+#020	拉达	ラッタ	Raticate
+#021	烈雀	オニスズメ	Spearow
+#022	大嘴雀	オニドリル	Fearow
+#023	阿柏蛇	アーボ	Ekans
+#024	阿柏怪	アーボック	Arbok
+#025	皮卡丘	ピカチュウ	Pikachu
+#026	雷丘	ライチュウ	Raichu
+#027	穿山鼠	サンド	Sandshrew
+#028	穿山王	サンドパン	Sandslash
+#029	尼多兰	ニドラン♀	Nidoran♀
+#030	尼多娜	ニドリーナ	Nidorina
+#031	尼多后	ニドクイン	Nidoqueen
+#032	尼多朗	ニドラン♂	Nidoran♂
+#033	尼多力诺	ニドリーノ	Nidorino
+#034	尼多王	ニドキング	Nidoking
+#035	皮皮	ピッピ	Clefairy
+#036	皮可西	ピクシー	Clefable
+#037	六尾	ロコン	Vulpix
+#038	九尾	キュウコン	Ninetales
+#039	胖丁	プリン	Jigglypuff
+#040	胖可丁	プクリン	Wigglytuff
+#041	超音蝠	ズバット	Zubat
+#042	大嘴蝠	ゴルバット	Golbat
+#043	走路草	ナゾノクサ	Oddish
+#044	臭臭花	クサイハナ	Gloom
+#045	霸王花	ラフレシア	Vileplume
+#046	派拉斯	パラス	Paras
+#047	派拉斯特	パラセクト	Parasect
+#048	毛球	コンパン	Venonat
+#049	摩鲁蛾	モルフォン	Venomoth
+#050	地鼠	ディグダ	Diglett
+#051	三地鼠	ダグトリオ	Dugtrio
+#052	喵喵	ニャース	Meowth
+#053	猫老大	ペルシアン	Persian
+#054	可达鸭	コダック	Psyduck
+#055	哥达鸭	ゴルダック	Golduck
+#056	猴怪	マンキー	Mankey
+#057	火暴猴	オコリザル	Primeape
+#058	卡蒂狗	ガーディ	Growlithe
+#059	风速狗	ウインディ	Arcanine
+#060	蚊香蝌蚪	ニョロモ	Poliwag
+#061	蚊香君	ニョロゾ	Poliwhirl
+#062	蚊香泳士	ニョロボン	Poliwrath
+#063	凯西	ケーシィ	Abra
+#064	勇基拉	ユンゲラー	Kadabra
+#065	胡地	フーディン	Alakazam
+#066	腕力	ワンリキー	Machop
+#067	豪力	ゴーリキー	Machoke
+#068	怪力	カイリキー	Machamp
+#069	喇叭芽	マダツボミ	Bellsprout
+#070	口呆花	ウツドン	Weepinbell
+#071	大食花	ウツボット	Victreebel
+#072	玛瑙水母	メノクラゲ	Tentacool
+#073	毒刺水母	ドククラゲ	Tentacruel
+#074	小拳石	イシツブテ	Geodude
+#075	隆隆石	ゴローン	Graveler
+#076	隆隆岩	ゴローニャ	Golem
+#077	小火马	ポニータ	Ponyta
+#078	烈焰马	ギャロップ	Rapidash
+#079	呆呆兽	ヤドン	Slowpoke
+#080	呆壳兽	ヤドラン	Slowbro
+#081	小磁怪	コイル	Magnemite
+#082	三合一磁怪	レアコイル	Magneton
+#083	大葱鸭	カモネギ	Farfetch'd
+#084	嘟嘟	ドードー	Doduo
+#085	嘟嘟利	ドードリオ	Dodrio
+#086	小海狮	パウワウ	Seel
+#087	白海狮	ジュゴン	Dewgong
+#088	臭泥	ベトベター	Grimer
+#089	臭臭泥	ベトベトン	Muk
+#090	大舌贝	シェルダー	Shellder
+#091	刺甲贝	パルシェン	Cloyster
+#092	鬼斯	ゴース	Gastly
+#093	鬼斯通	ゴースト	Haunter
+#094	耿鬼	ゲンガー	Gengar
+#095	大岩蛇	イワーク	Onix
+#096	催眠貘	スリープ	Drowzee
+#097	引梦貘人	スリーパー	Hypno
+#098	大钳蟹	クラブ	Krabby
+#099	巨钳蟹	キングラー	Kingler
+#100	霹雳电球	ビリリダマ	Voltorb
+#101	顽皮雷弹	マルマイン	Electrode
+#102	蛋蛋	タマタマ	Exeggcute
+#103	椰蛋树	ナッシー	Exeggutor
+#104	卡拉卡拉	カラカラ	Cubone
+#105	嘎啦嘎啦	ガラガラ	Marowak
+#106	飞腿郎	サワムラー	Hitmonlee
+#107	快拳郎	エビワラー	Hitmonchan
+#108	大舌头	ベロリンガ	Lickitung
+#109	瓦斯弹	ドガース	Koffing
+#110	双弹瓦斯	マタドガス	Weezing
+#111	独角犀牛	サイホーン	Rhyhorn
+#112	钻角犀兽	サイドン	Rhydon
+#113	吉利蛋	ラッキー	Chansey
+#114	蔓藤怪	モンジャラ	Tangela
+#115	袋兽	ガルーラ	Kangaskhan
+#116	墨海马	タッツー	Horsea
+#117	海刺龙	シードラ	Seadra
+#118	角金鱼	トサキント	Goldeen
+#119	金鱼王	アズマオウ	Seaking
+#120	海星星	ヒトデマン	Staryu
+#121	宝石海星	スターミー	Starmie
+#122	魔墙人偶	バリヤード	Mr. Mime
+#123	飞天螳螂	ストライク	Scyther
+#124	迷唇姐	ルージュラ	Jynx
+#125	电击兽	エレブー	Electabuzz
+#126	鸭嘴火兽	ブーバー	Magmar
+#127	凯罗斯	カイロス	Pinsir
+#128	肯泰罗	ケンタロス	Tauros
+#129	鲤鱼王	コイキング	Magikarp
+#130	暴鲤龙	ギャラドス	Gyarados
+#131	拉普拉斯	ラプラス	Lapras
+#132	百变怪	メタモン	Ditto
+#133	伊布	イーブイ	Eevee
+#134	水伊布	シャワーズ	Vaporeon
+#135	雷伊布	サンダース	Jolteon
+#136	火伊布	ブースター	Flareon
+#137	多边兽	ポリゴン	Porygon
+#138	菊石兽	オムナイト	Omanyte
+#139	多刺菊石兽	オムスター	Omastar
+#140	化石盔	カブト	Kabuto
+#141	镰刀盔	カブトプス	Kabutops
+#142	化石翼龙	プテラ	Aerodactyl
+#143	卡比兽	カビゴン	Snorlax
+#144	急冻鸟	フリーザー	Articuno
+#145	闪电鸟	サンダー	Zapdos
+#146	火焰鸟	ファイヤー	Moltres
+#147	迷你龙	ミニリュウ	Dratini
+#148	哈克龙	ハクリュー	Dragonair
+#149	快龙	カイリュー	Dragonite
+#150	超梦	ミュウツー	Mewtwo
+#151	梦幻	ミュウ	Mew
+第二世代
+#152	菊草叶	チコリータ	Chikorita
+#153	月桂叶	ベイリーフ	Bayleef
+#154	大竺葵	メガニウム	Meganium
+#155	火球鼠	ヒノアラシ	Cyndaquil
+#156	火岩鼠	マグマラシ	Quilava
+#157	火暴兽	バクフーン	Typhlosion
+#158	小锯鳄	ワニノコ	Totodile
+#159	蓝鳄	アリゲイツ	Croconaw
+#160	大力鳄	オーダイル	Feraligatr
+#161	尾立	オタチ	Sentret
+#162	大尾立	オオタチ	Furret
+#163	咕咕	ホーホー	Hoothoot
+#164	猫头夜鹰	ヨルノズク	Noctowl
+#165	芭瓢虫	レディバ	Ledyba
+#166	安瓢虫	レディアン	Ledian
+#167	圆丝蛛	イトマル	Spinarak
+#168	阿利多斯	アリアドス	Ariados
+#169	叉字蝠	クロバット	Crobat
+#170	灯笼鱼	チョンチー	Chinchou
+#171	电灯怪	ランターン	Lanturn
+#172	皮丘	ピチュー	Pichu
+#173	皮宝宝	ピィ	Cleffa
+#174	宝宝丁	ププリン	Igglybuff
+#175	波克比	トゲピー	Togepi
+#176	波克基古	トゲチック	Togetic
+#177	天然雀	ネイティ	Natu
+#178	天然鸟	ネイティオ	Xatu
+#179	咩利羊	メリープ	Mareep
+#180	茸茸羊	モココ	Flaaffy
+#181	电龙	デンリュウ	Ampharos
+#182	美丽花	キレイハナ	Bellossom
+#183	玛力露	マリル	Marill
+#184	玛力露丽	マリルリ	Azumarill
+#185	树才怪	ウソッキー	Sudowoodo
+#186	蚊香蛙皇	ニョロトノ	Politoed
+#187	毽子草	ハネッコ	Hoppip
+#188	毽子花	ポポッコ	Skiploom
+#189	毽子棉	ワタッコ	Jumpluff
+#190	长尾怪手	エイパム	Aipom
+#191	向日种子	ヒマナッツ	Sunkern
+#192	向日花怪	キマワリ	Sunflora
+#193	蜻蜻蜓	ヤンヤンマ	Yanma
+#194	乌波	ウパー	Wooper
+#195	沼王	ヌオー	Quagsire
+#196	太阳伊布	エーフィ	Espeon
+#197	月亮伊布	ブラッキー	Umbreon
+#198	黑暗鸦	ヤミカラス	Murkrow
+#199	呆呆王	ヤドキング	Slowking
+#200	梦妖	ムウマ	Misdreavus
+#201	未知图腾	アンノーン	Unown
+#202	果然翁	ソーナンス	Wobbuffet
+#203	麒麟奇	キリンリキ	Girafarig
+#204	榛果球	クヌギダマ	Pineco
+#205	佛烈托斯	フォレトス	Forretress
+#206	土龙弟弟	ノコッチ	Dunsparce
+#207	天蝎	グライガー	Gligar
+#208	大钢蛇	ハガネール	Steelix
+#209	布鲁	ブルー	Snubbull
+#210	布鲁皇	グランブル	Granbull
+#211	千针鱼	ハリーセン	Qwilfish
+#212	巨钳螳螂	ハッサム	Scizor
+#213	壶壶	ツボツボ	Shuckle
+#214	赫拉克罗斯	ヘラクロス	Heracross
+#215	狃拉	ニューラ	Sneasel
+#216	熊宝宝	ヒメグマ	Teddiursa
+#217	圈圈熊	リングマ	Ursaring
+#218	熔岩虫	マグマッグ	Slugma
+#219	熔岩蜗牛	マグカルゴ	Magcargo
+#220	小山猪	ウリムー	Swinub
+#221	长毛猪	イノムー	Piloswine
+#222	太阳珊瑚	サニーゴ	Corsola
+#223	铁炮鱼	テッポウオ	Remoraid
+#224	章鱼桶	オクタン	Octillery
+#225	信使鸟	デリバード	Delibird
+#226	巨翅飞鱼	マンタイン	Mantine
+#227	盔甲鸟	エアームド	Skarmory
+#228	戴鲁比	デルビル	Houndour
+#229	黑鲁加	ヘルガー	Houndoom
+#230	刺龙王	キングドラ	Kingdra
+#231	小小象	ゴマゾウ	Phanpy
+#232	顿甲	ドンファン	Donphan
+#233	多边兽Ⅱ	ポリゴン２	Porygon2
+#234	惊角鹿	オドシシ	Stantler
+#235	图图犬	ドーブル	Smeargle
+#236	无畏小子	バルキー	Tyrogue
+#237	战舞郎	カポエラー	Hitmontop
+#238	迷唇娃	ムチュール	Smoochum
+#239	电击怪	エレキッド	Elekid
+#240	鸭嘴宝宝	ブビィ	Magby
+#241	大奶罐	ミルタンク	Miltank
+#242	幸福蛋	ハピナス	Blissey
+#243	雷公	ライコウ	Raikou
+#244	炎帝	エンテイ	Entei
+#245	水君	スイクン	Suicune
+#246	幼基拉斯	ヨーギラス	Larvitar
+#247	沙基拉斯	サナギラス	Pupitar
+#248	班基拉斯	バンギラス	Tyranitar
+#249	洛奇亚	ルギア	Lugia
+#250	凤王	ホウオウ	Ho-Oh
+#251	时拉比	セレビィ	Celebi
+第三世代
+#252	木守宫	キモリ	Treecko
+#253	森林蜥蜴	ジュプトル	Grovyle
+#254	蜥蜴王	ジュカイン	Sceptile
+#255	火稚鸡	アチャモ	Torchic
+#256	力壮鸡	ワカシャモ	Combusken
+#257	火焰鸡	バシャーモ	Blaziken
+#258	水跃鱼	ミズゴロウ	Mudkip
+#259	沼跃鱼	ヌマクロー	Marshtomp
+#260	巨沼怪	ラグラージ	Swampert
+#261	土狼犬	ポチエナ	Poochyena
+#262	大狼犬	グラエナ	Mightyena
+#263	蛇纹熊	ジグザグマ	Zigzagoon
+#264	直冲熊	マッスグマ	Linoone
+#265	刺尾虫	ケムッソ	Wurmple
+#266	甲壳茧	カラサリス	Silcoon
+#267	狩猎凤蝶	アゲハント	Beautifly
+#268	盾甲茧	マユルド	Cascoon
+#269	毒粉蛾	ドクケイル	Dustox
+#270	莲叶童子	ハスボー	Lotad
+#271	莲帽小童	ハスブレロ	Lombre
+#272	乐天河童	ルンパッパ	Ludicolo
+#273	橡实果	タネボー	Seedot
+#274	长鼻叶	コノハナ	Nuzleaf
+#275	狡猾天狗	ダーテング	Shiftry
+#276	傲骨燕	スバメ	Taillow
+#277	大王燕	オオスバメ	Swellow
+#278	长翅鸥	キャモメ	Wingull
+#279	大嘴鸥	ペリッパー	Pelipper
+#280	拉鲁拉丝	ラルトス	Ralts
+#281	奇鲁莉安	キルリア	Kirlia
+#282	沙奈朵	サーナイト	Gardevoir
+#283	溜溜糖球	アメタマ	Surskit
+#284	雨翅蛾	アメモース	Masquerain
+#285	蘑蘑菇	キノココ	Shroomish
+#286	斗笠菇	キノガッサ	Breloom
+#287	懒人獭	ナマケロ	Slakoth
+#288	过动猿	ヤルキモノ	Vigoroth
+#289	请假王	ケッキング	Slaking
+#290	土居忍士	ツチニン	Nincada
+#291	铁面忍者	テッカニン	Ninjask
+#292	脱壳忍者	ヌケニン	Shedinja
+#293	咕妞妞	ゴニョニョ	Whismur
+#294	吼爆弹	ドゴーム	Loudred
+#295	爆音怪	バクオング	Exploud
+#296	幕下力士	マクノシタ	Makuhita
+#297	铁掌力士	ハリテヤマ	Hariyama
+#298	露力丽	ルリリ	Azurill
+#299	朝北鼻	ノズパス	Nosepass
+#300	向尾喵	エネコ	Skitty
+#301	优雅猫	エネコロロ	Delcatty
+#302	勾魂眼	ヤミラミ	Sableye
+#303	大嘴娃	クチート	Mawile
+#304	可可多拉	ココドラ	Aron
+#305	可多拉	コドラ	Lairon
+#306	波士可多拉	ボスゴドラ	Aggron
+#307	玛沙那	アサナン	Meditite
+#308	恰雷姆	チャーレム	Medicham
+#309	落雷兽	ラクライ	Electrike
+#310	雷电兽	ライボルト	Manectric
+#311	正电拍拍	プラスル	Plusle
+#312	负电拍拍	マイナン	Minun
+#313	电萤虫	バルビート	Volbeat
+#314	甜甜萤	イルミーゼ	Illumise
+#315	毒蔷薇	ロゼリア	Roselia
+#316	溶食兽	ゴクリン	Gulpin
+#317	吞食兽	マルノーム	Swalot
+#318	利牙鱼	キバニア	Carvanha
+#319	巨牙鲨	サメハダー	Sharpedo
+#320	吼吼鲸	ホエルコ	Wailmer
+#321	吼鲸王	ホエルオー	Wailord
+#322	呆火驼	ドンメル	Numel
+#323	喷火驼	バクーダ	Camerupt
+#324	煤炭龟	コータス	Torkoal
+#325	跳跳猪	バネブー	Spoink
+#326	噗噗猪	ブーピッグ	Grumpig
+#327	晃晃斑	パッチール	Spinda
+#328	大颚蚁	ナックラー	Trapinch
+#329	超音波幼虫	ビブラーバ	Vibrava
+#330	沙漠蜻蜓	フライゴン	Flygon
+#331	刺球仙人掌	サボネア	Cacnea
+#332	梦歌仙人掌	ノクタス	Cacturne
+#333	青绵鸟	チルット	Swablu
+#334	七夕青鸟	チルタリス	Altaria
+#335	猫鼬斩	ザングース	Zangoose
+#336	饭匙蛇	ハブネーク	Seviper
+#337	月石	ルナトーン	Lunatone
+#338	太阳岩	ソルロック	Solrock
+#339	泥泥鳅	ドジョッチ	Barboach
+#340	鲶鱼王	ナマズン	Whiscash
+#341	龙虾小兵	ヘイガニ	Corphish
+#342	铁螯龙虾	シザリガー	Crawdaunt
+#343	天秤偶	ヤジロン	Baltoy
+#344	念力土偶	ネンドール	Claydol
+#345	触手百合	リリーラ	Lileep
+#346	摇篮百合	ユレイドル	Cradily
+#347	太古羽虫	アノプス	Anorith
+#348	太古盔甲	アーマルド	Armaldo
+#349	丑丑鱼	ヒンバス	Feebas
+#350	美纳斯	ミロカロス	Milotic
+#351	飘浮泡泡	ポワルン	Castform
+#352	变隐龙	カクレオン	Kecleon
+#353	怨影娃娃	カゲボウズ	Shuppet
+#354	诅咒娃娃	ジュペッタ	Banette
+#355	夜巡灵	ヨマワル	Duskull
+#356	彷徨夜灵	サマヨール	Dusclops
+#357	热带龙	トロピウス	Tropius
+#358	风铃铃	チリーン	Chimecho
+#359	阿勃梭鲁	アブソル	Absol
+#360	小果然	ソーナノ	Wynaut
+#361	雪童子	ユキワラシ	Snorunt
+#362	冰鬼护	オニゴーリ	Glalie
+#363	海豹球	タマザラシ	Spheal
+#364	海魔狮	トドグラー	Sealeo
+#365	帝牙海狮	トドゼルガ	Walrein
+#366	珍珠贝	パールル	Clamperl
+#367	猎斑鱼	ハンテール	Huntail
+#368	樱花鱼	サクラビス	Gorebyss
+#369	古空棘鱼	ジーランス	Relicanth
+#370	爱心鱼	ラブカス	Luvdisc
+#371	宝贝龙	タツベイ	Bagon
+#372	甲壳龙	コモルー	Shelgon
+#373	暴飞龙	ボーマンダ	Salamence
+#374	铁哑铃	ダンバル	Beldum
+#375	金属怪	メタング	Metang
+#376	巨金怪	メタグロス	Metagross
+#377	雷吉洛克	レジロック	Regirock
+#378	雷吉艾斯	レジアイス	Regice
+#379	雷吉斯奇鲁	レジスチル	Registeel
+#380	拉帝亚斯	ラティアス	Latias
+#381	拉帝欧斯	ラティオス	Latios
+#382	盖欧卡	カイオーガ	Kyogre
+#383	固拉多	グラードン	Groudon
+#384	烈空坐	レックウザ	Rayquaza
+#385	基拉祈	ジラーチ	Jirachi
+#386	代欧奇希斯	デオキシス	Deoxys
+第四世代
+#387	草苗龟	ナエトル	Turtwig
+#388	树林龟	ハヤシガメ	Grotle
+#389	土台龟	ドダイトス	Torterra
+#390	小火焰猴	ヒコザル	Chimchar
+#391	猛火猴	モウカザル	Monferno
+#392	烈焰猴	ゴウカザル	Infernape
+#393	波加曼	ポッチャマ	Piplup
+#394	波皇子	ポッタイシ	Prinplup
+#395	帝王拿波	エンペルト	Empoleon
+#396	姆克儿	ムックル	Starly
+#397	姆克鸟	ムクバード	Staravia
+#398	姆克鹰	ムクホーク	Staraptor
+#399	大牙狸	ビッパ	Bidoof
+#400	大尾狸	ビーダル	Bibarel
+#401	圆法师	コロボーシ	Kricketot
+#402	音箱蟀	コロトック	Kricketune
+#403	小猫怪	コリンク	Shinx
+#404	勒克猫	ルクシオ	Luxio
+#405	伦琴猫	レントラー	Luxray
+#406	含羞苞	スボミー	Budew
+#407	罗丝雷朵	ロズレイド	Roserade
+#408	头盖龙	ズガイドス	Cranidos
+#409	战槌龙	ラムパルド	Rampardos
+#410	盾甲龙	タテトプス	Shieldon
+#411	护城龙	トリデプス	Bastiodon
+#412	结草儿	ミノムッチ	Burmy
+#413	结草贵妇	ミノマダム	Wormadam
+#414	绅士蛾	ガーメイル	Mothim
+#415	三蜜蜂	ミツハニー	Combee
+#416	蜂女王	ビークイン	Vespiquen
+#417	帕奇利兹	パチリス	Pachirisu
+#418	泳圈鼬	ブイゼル	Buizel
+#419	浮潜鼬	フローゼル	Floatzel
+#420	樱花宝	チェリンボ	Cherubi
+#421	樱花儿	チェリム	Cherrim
+#422	无壳海兔	カラナクシ	Shellos
+#423	海兔兽	トリトドン	Gastrodon
+#424	双尾怪手	エテボース	Ambipom
+#425	飘飘球	フワンテ	Drifloon
+#426	随风球	フワライド	Drifblim
+#427	卷卷耳	ミミロル	Buneary
+#428	长耳兔	ミミロップ	Lopunny
+#429	梦妖魔	ムウマージ	Mismagius
+#430	乌鸦头头	ドンカラス	Honchkrow
+#431	魅力喵	ニャルマー	Glameow
+#432	东施喵	ブニャット	Purugly
+#433	铃铛响	リーシャン	Chingling
+#434	臭鼬噗	スカンプー	Stunky
+#435	坦克臭鼬	スカタンク	Skuntank
+#436	铜镜怪	ドーミラー	Bronzor
+#437	青铜钟	ドータクン	Bronzong
+#438	盆才怪	ウソハチ	Bonsly
+#439	魔尼尼	マネネ	Mime Jr.
+#440	小福蛋	ピンプク	Happiny
+#441	聒噪鸟	ペラップ	Chatot
+#442	花岩怪	ミカルゲ	Spiritomb
+#443	圆陆鲨	フカマル	Gible
+#444	尖牙陆鲨	ガバイト	Gabite
+#445	烈咬陆鲨	ガブリアス	Garchomp
+#446	小卡比兽	ゴンベ	Munchlax
+#447	利欧路	リオル	Riolu
+#448	路卡利欧	ルカリオ	Lucario
+#449	沙河马	ヒポポタス	Hippopotas
+#450	河马兽	カバルドン	Hippowdon
+#451	钳尾蝎	スコルピ	Skorupi
+#452	龙王蝎	ドラピオン	Drapion
+#453	不良蛙	グレッグル	Croagunk
+#454	毒骷蛙	ドクロッグ	Toxicroak
+#455	尖牙笼	マスキッパ	Carnivine
+#456	荧光鱼	ケイコウオ	Finneon
+#457	霓虹鱼	ネオラント	Lumineon
+#458	小球飞鱼	タマンタ	Mantyke
+#459	雪笠怪	ユキカブリ	Snover
+#460	暴雪王	ユキノオー	Abomasnow
+#461	玛狃拉	マニューラ	Weavile
+#462	自爆磁怪	ジバコイル	Magnezone
+#463	大舌舔	ベロベルト	Lickilicky
+#464	超甲狂犀	ドサイドン	Rhyperior
+#465	巨蔓藤	モジャンボ	Tangrowth
+#466	电击魔兽	エレキブル	Electivire
+#467	鸭嘴炎兽	ブーバーン	Magmortar
+#468	波克基斯	トゲキッス	Togekiss
+#469	远古巨蜓	メガヤンマ	Yanmega
+#470	叶伊布	リーフィア	Leafeon
+#471	冰伊布	グレイシア	Glaceon
+#472	天蝎王	グライオン	Gliscor
+#473	象牙猪	マンムー	Mamoswine
+#474	多边兽Ｚ	ポリゴンＺ	Porygon-Z
+#475	艾路雷朵	エルレイド	Gallade
+#476	大朝北鼻	ダイノーズ	Probopass
+#477	黑夜魔灵	ヨノワール	Dusknoir
+#478	雪妖女	ユキメノコ	Froslass
+#479	洛托姆	ロトム	Rotom
+#480	由克希	ユクシー	Uxie
+#481	艾姆利多	エムリット	Mesprit
+#482	亚克诺姆	アグノム	Azelf
+#483	帝牙卢卡	ディアルガ	Dialga
+#484	帕路奇亚	パルキア	Palkia
+#485	席多蓝恩	ヒードラン	Heatran
+#486	雷吉奇卡斯	レジギガス	Regigigas
+#487	骑拉帝纳	ギラティナ	Giratina
+#488	克雷色利亚	クレセリア	Cresselia
+#489	霏欧纳	フィオネ	Phione
+#490	玛纳霏	マナフィ	Manaphy
+#491	达克莱伊	ダークライ	Darkrai
+#492	谢米	シェイミ	Shaymin
+#493	阿尔宙斯	アルセウス	Arceus
+第五世代
+#494	比克提尼	ビクティニ	Victini
+#495	藤藤蛇	ツタージャ	Snivy
+#496	青藤蛇	ジャノビー	Servine
+#497	君主蛇	ジャローダ	Serperior
+#498	暖暖猪	ポカブ	Tepig
+#499	炒炒猪	チャオブー	Pignite
+#500	炎武王	エンブオー	Emboar
+#501	水水獭	ミジュマル	Oshawott
+#502	双刃丸	フタチマル	Dewott
+#503	大剑鬼	ダイケンキ	Samurott
+#504	探探鼠	ミネズミ	Patrat
+#505	步哨鼠	ミルホッグ	Watchog
+#506	小约克	ヨーテリー	Lillipup
+#507	哈约克	ハーデリア	Herdier
+#508	长毛狗	ムーランド	Stoutland
+#509	扒手猫	チョロネコ	Purrloin
+#510	酷豹	レパルダス	Liepard
+#511	花椰猴	ヤナップ	Pansage
+#512	花椰猿	ヤナッキー	Simisage
+#513	爆香猴	バオップ	Pansear
+#514	爆香猿	バオッキー	Simisear
+#515	冷水猴	ヒヤップ	Panpour
+#516	冷水猿	ヒヤッキー	Simipour
+#517	食梦梦	ムンナ	Munna
+#518	梦梦蚀	ムシャーナ	Musharna
+#519	豆豆鸽	マメパト	Pidove
+#520	咕咕鸽	ハトーボー	Tranquill
+#521	高傲雉鸡	ケンホロウ	Unfezant
+#522	斑斑马	シママ	Blitzle
+#523	雷电斑马	ゼブライカ	Zebstrika
+#524	石丸子	ダンゴロ	Roggenrola
+#525	地幔岩	ガントル	Boldore
+#526	庞岩怪	ギガイアス	Gigalith
+#527	滚滚蝙蝠	コロモリ	Woobat
+#528	心蝙蝠	ココロモリ	Swoobat
+#529	螺钉地鼠	モグリュー	Drilbur
+#530	龙头地鼠	ドリュウズ	Excadrill
+#531	差不多娃娃	タブンネ	Audino
+#532	搬运小匠	ドッコラー	Timburr
+#533	铁骨土人	ドテッコツ	Gurdurr
+#534	修建老匠	ローブシン	Conkeldurr
+#535	圆蝌蚪	オタマロ	Tympole
+#536	蓝蟾蜍	ガマガル	Palpitoad
+#537	蟾蜍王	ガマゲロゲ	Seismitoad
+#538	投摔鬼	ナゲキ	Throh
+#539	打击鬼	ダゲキ	Sawk
+#540	虫宝包	クルミル	Sewaddle
+#541	宝包茧	クルマユ	Swadloon
+#542	保姆虫	ハハコモリ	Leavanny
+#543	百足蜈蚣	フシデ	Venipede
+#544	车轮球	ホイーガ	Whirlipede
+#545	蜈蚣王	ペンドラー	Scolipede
+#546	木棉球	モンメン	Cottonee
+#547	风妖精	エルフーン	Whimsicott
+#548	百合根娃娃	チュリネ	Petilil
+#549	裙儿小姐	ドレディア	Lilligant
+#550	野蛮鲈鱼	バスラオ	Basculin
+#551	黑眼鳄	メグロコ	Sandile
+#552	混混鳄	ワルビル	Krokorok
+#553	流氓鳄	ワルビアル	Krookodile
+#554	火红不倒翁	ダルマッカ	Darumaka
+#555	达摩狒狒	ヒヒダルマ	Darmanitan
+#556	沙铃仙人掌	マラカッチ	Maractus
+#557	石居蟹	イシズマイ	Dwebble
+#558	岩殿居蟹	イワパレス	Crustle
+#559	滑滑小子	ズルッグ	Scraggy
+#560	头巾混混	ズルズキン	Scrafty
+#561	象征鸟	シンボラー	Sigilyph
+#562	哭哭面具	デスマス	Yamask
+#563	死神棺	デスカーン	Cofagrigus
+#564	原盖海龟	プロトーガ	Tirtouga
+#565	肋骨海龟	アバゴーラ	Carracosta
+#566	始祖小鸟	アーケン	Archen
+#567	始祖大鸟	アーケオス	Archeops
+#568	破破袋	ヤブクロン	Trubbish
+#569	灰尘山	ダストダス	Garbodor
+#570	索罗亚	ゾロア	Zorua
+#571	索罗亚克	ゾロアーク	Zoroark
+#572	泡沫栗鼠	チラーミィ	Minccino
+#573	奇诺栗鼠	チラチーノ	Cinccino
+#574	哥德宝宝	ゴチム	Gothita
+#575	哥德小童	ゴチミル	Gothorita
+#576	哥德小姐	ゴチルゼル	Gothitelle
+#577	单卵细胞球	ユニラン	Solosis
+#578	双卵细胞球	ダブラン	Duosion
+#579	人造细胞卵	ランクルス	Reuniclus
+#580	鸭宝宝	コアルヒー	Ducklett
+#581	舞天鹅	スワンナ	Swanna
+#582	迷你冰	バニプッチ	Vanillite
+#583	多多冰	バニリッチ	Vanillish
+#584	双倍多多冰	バイバニラ	Vanilluxe
+#585	四季鹿	シキジカ	Deerling
+#586	萌芽鹿	メブキジカ	Sawsbuck
+#587	电飞鼠	エモンガ	Emolga
+#588	盖盖虫	カブルモ	Karrablast
+#589	骑士蜗牛	シュバルゴ	Escavalier
+#590	哎呀球菇	タマゲタケ	Foongus
+#591	败露球菇	モロバレル	Amoonguss
+#592	轻飘飘	プルリル	Frillish
+#593	胖嘟嘟	ブルンゲル	Jellicent
+#594	保姆曼波	ママンボウ	Alomomola
+#595	电电虫	バチュル	Joltik
+#596	电蜘蛛	デンチュラ	Galvantula
+#597	种子铁球	テッシード	Ferroseed
+#598	坚果哑铃	ナットレイ	Ferrothorn
+#599	齿轮儿	ギアル	Klink
+#600	齿轮组	ギギアル	Klang
+#601	齿轮怪	ギギギアル	Klinklang
+#602	麻麻小鱼	シビシラス	Tynamo
+#603	麻麻鳗	シビビール	Eelektrik
+#604	麻麻鳗鱼王	シビルドン	Eelektross
+#605	小灰怪	リグレー	Elgyem
+#606	大宇怪	オーベム	Beheeyem
+#607	烛光灵	ヒトモシ	Litwick
+#608	灯火幽灵	ランプラー	Lampent
+#609	水晶灯火灵	シャンデラ	Chandelure
+#610	牙牙	キバゴ	Axew
+#611	斧牙龙	オノンド	Fraxure
+#612	双斧战龙	オノノクス	Haxorus
+#613	喷嚏熊	クマシュン	Cubchoo
+#614	冻原熊	ツンベアー	Beartic
+#615	几何雪花	フリージオ	Cryogonal
+#616	小嘴蜗	チョボマキ	Shelmet
+#617	敏捷虫	アギルダー	Accelgor
+#618	泥巴鱼	マッギョ	Stunfisk
+#619	功夫鼬	コジョフー	Mienfoo
+#620	师父鼬	コジョンド	Mienshao
+#621	赤面龙	クリムガン	Druddigon
+#622	泥偶小人	ゴビット	Golett
+#623	泥偶巨人	ゴルーグ	Golurk
+#624	驹刀小兵	コマタナ	Pawniard
+#625	劈斩司令	キリキザン	Bisharp
+#626	爆炸头水牛	バッフロン	Bouffalant
+#627	毛头小鹰	ワシボン	Rufflet
+#628	勇士雄鹰	ウォーグル	Braviary
+#629	秃鹰丫头	バルチャイ	Vullaby
+#630	秃鹰娜	バルジーナ	Mandibuzz
+#631	熔蚁兽	クイタラン	Heatmor
+#632	铁蚁	アイアント	Durant
+#633	单首龙	モノズ	Deino
+#634	双首暴龙	ジヘッド	Zweilous
+#635	三首恶龙	サザンドラ	Hydreigon
+#636	燃烧虫	メラルバ	Larvesta
+#637	火神蛾	ウルガモス	Volcarona
+#638	勾帕路翁	コバルオン	Cobalion
+#639	代拉基翁	テラキオン	Terrakion
+#640	毕力吉翁	ビリジオン	Virizion
+#641	龙卷云	トルネロス	Tornadus
+#642	雷电云	ボルトロス	Thundurus
+#643	莱希拉姆	レシラム	Reshiram
+#644	捷克罗姆	ゼクロム	Zekrom
+#645	土地云	ランドロス	Landorus
+#646	酋雷姆	キュレム	Kyurem
+#647	凯路迪欧	ケルディオ	Keldeo
+#648	美洛耶塔	メロエッタ	Meloetta
+#649	盖诺赛克特	ゲノセクト	Genesect
+第六世代
+#650	哈力栗	ハリマロン	Chespin
+#651	胖胖哈力	ハリボーグ	Quilladin
+#652	布里卡隆	ブリガロン	Chesnaught
+#653	火狐狸	フォッコ	Fennekin
+#654	长尾火狐	テールナー	Braixen
+#655	妖火红狐	マフォクシー	Delphox
+#656	呱呱泡蛙	ケロマツ	Froakie
+#657	呱头蛙	ゲコガシラ	Frogadier
+#658	甲贺忍蛙	ゲッコウガ	Greninja
+#659	掘掘兔	ホルビー	Bunnelby
+#660	掘地兔	ホルード	Diggersby
+#661	小箭雀	ヤヤコマ	Fletchling
+#662	火箭雀	ヒノヤコマ	Fletchinder
+#663	烈箭鹰	ファイアロー	Talonflame
+#664	粉蝶虫	コフキムシ	Scatterbug
+#665	粉蝶蛹	コフーライ	Spewpa
+#666	彩粉蝶	ビビヨン	Vivillon
+#667	小狮狮	シシコ	Litleo
+#668	火炎狮	カエンジシ	Pyroar
+#669	花蓓蓓	フラベベ	Flabébé
+#670	花叶蒂	フラエッテ	Floette
+#671	花洁夫人	フラージェス	Florges
+#672	坐骑小羊	メェークル	Skiddo
+#673	坐骑山羊	ゴーゴート	Gogoat
+#674	顽皮熊猫	ヤンチャム	Pancham
+#675	流氓熊猫	ゴロンダ	Pangoro
+#676	多丽米亚	トリミアン	Furfrou
+#677	妙喵	ニャスパー	Espurr
+#678	超能妙喵	ニャオニクス	Meowstic
+#679	独剑鞘	ヒトツキ	Honedge
+#680	双剑鞘	ニダンギル	Doublade
+#681	坚盾剑怪	ギルガルド	Aegislash
+#682	粉香香	シュシュプ	Spritzee
+#683	芳香精	フレフワン	Aromatisse
+#684	绵绵泡芙	ペロッパフ	Swirlix
+#685	胖甜妮	ペロリーム	Slurpuff
+#686	好啦鱿	マーイーカ	Inkay
+#687	乌贼王	カラマネロ	Malamar
+#688	龟脚脚	カメテテ	Binacle
+#689	龟足巨铠	ガメノデス	Barbaracle
+#690	垃垃藻	クズモー	Skrelp
+#691	毒藻龙	ドラミドロ	Dragalge
+#692	铁臂枪虾	ウデッポウ	Clauncher
+#693	钢炮臂虾	ブロスター	Clawitzer
+#694	伞电蜥	エリキテル	Helioptile
+#695	光电伞蜥	エレザード	Heliolisk
+#696	宝宝暴龙	チゴラス	Tyrunt
+#697	怪颚龙	ガチゴラス	Tyrantrum
+#698	冰雪龙	アマルス	Amaura
+#699	冰雪巨龙	アマルルガ	Aurorus
+#700	仙子伊布	ニンフィア	Sylveon
+#701	摔角鹰人	ルチャブル	Hawlucha
+#702	咚咚鼠	デデンネ	Dedenne
+#703	小碎钻	メレシー	Carbink
+#704	黏黏宝	ヌメラ	Goomy
+#705	黏美儿	ヌメイル	Sliggoo
+#706	黏美龙	ヌメルゴン	Goodra
+#707	钥圈儿	クレッフィ	Klefki
+#708	小木灵	ボクレー	Phantump
+#709	朽木妖	オーロット	Trevenant
+#710	南瓜精	バケッチャ	Pumpkaboo
+#711	南瓜怪人	パンプジン	Gourgeist
+#712	冰宝	カチコール	Bergmite
+#713	冰岩怪	クレベース	Avalugg
+#714	嗡蝠	オンバット	Noibat
+#715	音波龙	オンバーン	Noivern
+#716	哲尔尼亚斯	ゼルネアス	Xerneas
+#717	伊裴尔塔尔	イベルタル	Yveltal
+#718	基格尔德	ジガルデ	Zygarde
+#719	蒂安希	ディアンシー	Diancie
+#720	胡帕	フーパ	Hoopa
+#721	波尔凯尼恩	ボルケニオン	Volcanion
