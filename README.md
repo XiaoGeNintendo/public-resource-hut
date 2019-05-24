@@ -28,3 +28,6 @@ The new version is created all by myself using the data from [52poke](https://wi
 
 # Initial Pokemon Picture
 This picture is from the Discord Pokecard Bot.
+
+# Blog Temp
+Temp files for blogs
