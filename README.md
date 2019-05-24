@@ -30,4 +30,4 @@ The new version is created all by myself using the data from [52poke](https://wi
 This picture is from the Discord Pokecard Bot.
 
 # Blog Temp
-Temp files for blogs
+Temp files for blogs. All written by myself.
