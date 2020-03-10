@@ -1,5 +1,5 @@
 parser={
-    ver:"0.0.3",
+    ver:"0.0.5",
     parser:[
         {
             name:"Codeforces", //oj name
@@ -66,10 +66,24 @@ parser={
                 return null
             },
             getTitle:function(){ //the function for getting title. Null for invalid problem.
-                return document.getElementsByClassName("h2")[0].innerText;
+                return document.getElementsByTagName("h2")[0].innerText;
             }
         },
+        {
+            name:"HHSOJEssential", //oj name
+            regex:`.*betaoj\.hellholestudios\.top\/HellOJ\/pview\.jsp\?.*`, //check site
+            getId:function(){ //the function for getting id. UID=oj name+"_"+id. If null is returned, the problem won't be considered valid
+                var vs=location.href.split("/");
+                var vs2=vs[vs.length-1].split("?");
+                var vs3=vs2[vs2.length-1].split("#");
+                var vs4=vs3[0].split("&");
 
+                return vs4[0].split("=")[1]+"-"+vs4[1].split("=")[1]
+            },
+            getTitle:function(){ //the function for getting title. Null for invalid problem.
+                return document.getElementsByTagName("h1")[0].innerText;
+            }
+        },
         
     ]
 }
