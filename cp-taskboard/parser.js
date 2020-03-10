@@ -1,5 +1,5 @@
 parser={
-    ver:"0.0.5",
+    ver:"0.0.7",
     parser:[
         {
             name:"Codeforces", //oj name
@@ -76,14 +76,45 @@ parser={
                 var vs=location.href.split("/");
                 var vs2=vs[vs.length-1].split("?");
                 var vs3=vs2[vs2.length-1].split("#");
-                var vs4=vs3[0].split("&");
+                var vs4=vs3[0].split("&"); //"a=b" "c=d"
 
-                return vs4[0].split("=")[1]+"-"+vs4[1].split("=")[1]
+                var set=null,id=null;
+                for(var i=0;i<vs4.length;i++){
+                    if(vs4[i].split("=")[0]=="set"){
+                        set=vs4[i].split("=")[1]
+                    }
+                    if(vs4[i].split("=")[0]=="id"){
+                        id=vs4[i].split("=")[1]
+                    }
+                }
+
+                return set+"-"+id
             },
             getTitle:function(){ //the function for getting title. Null for invalid problem.
                 return document.getElementsByTagName("h1")[0].innerText;
             }
         },
-        
+        {
+            name:"HHSOJ", //oj name
+            regex:`.*oj\.hellholestudios\.top\/problem\.jsp\?.*id=.*`, //check site
+            getId:function(){ //the function for getting id. UID=oj name+"_"+id. If null is returned, the problem won't be considered valid
+                var vs=location.href.split("/");
+                var vs2=vs[vs.length-1].split("?");
+                var vs3=vs2[vs2.length-1].split("#");
+                var vs4=vs3[0].split("&");
+
+                var id=null;
+                for(var i=0;i<vs4.length;i++){
+                    if(vs4[i].split("=")[0]=="id"){
+                        id=vs4[i].split("=")[1]
+                    }
+                }
+
+                return id
+            },
+            getTitle:function(){ //the function for getting title. Null for invalid problem.
+                return document.getElementsByTagName("h1")[1].innerText;
+            }
+        },
     ]
 }
