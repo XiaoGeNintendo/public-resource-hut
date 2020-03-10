@@ -11,3 +11,7 @@ Resources for CP Taskboard. OJ Pictures and parsers.
   
   - Old UI
   - New UI
+  
+- [HHSOJ Essential](https://betaoj.hellholestudios.top/HellOJ/index.jsp)
+
+- [HHSOJ Web Edition](https://oj.hellholestudios.top)
